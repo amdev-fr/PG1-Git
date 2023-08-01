@@ -3,6 +3,7 @@
 
 
 <div>
+<<<<<<< Updated upstream
     <h4>
         <scan>TOA</scan>
         <scan>Axel</scan>
@@ -50,5 +51,12 @@
      <h4>
        <p>tkhaled619@gmail.com</p>
        <p> hello</p>
+=======
+<h4>
+<scan>Khaled<scan> <scan>Mohamed<scan>
+<h4>
+<p>tkhaled619@gmail.com</p>
+<p> je suis chanteur </p>
+>>>>>>> Stashed changes
 
 </div>
