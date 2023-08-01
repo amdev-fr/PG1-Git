@@ -31,4 +31,22 @@
     </h4>
     <p>aurelie.jandia@gmail.com</p>
     <p>Je suis Aurélie, participant à la formation PGI1</p>
+
+ </div>
+ <div>
+    <h4>   
+        <scan>GUEMMOURI</scan>
+        <scan>Rabia</scan>
+    </h4>
+    <p>rguem24@gmail.com</p>
+    <p>Je suis rgi-star git.</p>
+</div>
+<div>
+    <h4>
+        <scan>Nedellec</scan> 
+        <scan>Julien</scan>
+    </h4>
+        <p>nedelle.julien@hotmail.fr</p>
+        <p>Je suis en formation git.</p>
+
 </div>
