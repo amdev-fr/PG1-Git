@@ -24,3 +24,11 @@
   <p>clem.schwarz78490@gmail.com</p>
   <p>Bonjour </p>
 </div>
+<div>
+    <h4>
+        <scan>JANDIA</scan>
+        <scan>Aurélie</scan>
+    </h4>
+    <p>aurelie.jandia@gmail.com</p>
+    <p>Je suis Aurélie, participant à la formation PGI1</p>
+</div>
