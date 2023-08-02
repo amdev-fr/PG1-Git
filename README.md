@@ -1,9 +1,7 @@
 <h1>Formation Git - PGI ERP 1</h1>
 <p>Ceci est le repository de la formation PGI 2023 !</p>
 
-
 <div>
-<<<<<<< Updated upstream
     <h4>
         <scan>TOA</scan>
         <scan>Axel</scan>
@@ -12,12 +10,12 @@
     <p>Je suis le formateur git.</p>
 </div>
 <div>
-  <h4>
-  <scan>SCHWARZ</scan> 
-  <scan>Clement</scan>
-  </h4>
-  <p>clem.schwarz78490@gmail.com</p>
-  <p>Bonjour </p>
+    <h4>
+        <scan>SCHWARZ</scan> 
+        <scan>Clement</scan>
+    </h4>
+    <p>clem.schwarz78490@gmail.com</p>
+    <p>Bonjour </p>
 </div>
 <div>
     <h4>
@@ -26,9 +24,8 @@
     </h4>
     <p>aurelie.jandia@gmail.com</p>
     <p>Je suis Aurélie, participant à la formation PGI1</p>
-
- </div>
- <div>
+</div>
+<div>
     <h4>   
         <scan>GUEMMOURI</scan>
         <scan>Rabia</scan>
@@ -41,22 +38,13 @@
         <scan>Nedellec</scan> 
         <scan>Julien</scan>
     </h4>
-        <p>nedelle.julien@hotmail.fr</p>
-        <p>Je suis en formation git.</p>
-
+    <p>nedelle.julien@hotmail.fr</p>
+    <p>Je suis en formation git.</p>
 </div>
-     <div>
-      <h4>
-      <scan>Khaled<scan> <scan>Mohamed<scan>
-     <h4>
-       <p>tkhaled619@gmail.com</p>
-       <p> hello</p>
-=======
-<h4>
-<scan>Khaled<scan> <scan>Mohamed<scan>
-<h4>
-<p>tkhaled619@gmail.com</p>
-<p> je suis chanteur </p>
->>>>>>> Stashed changes
-
+    <div>
+    <h4>
+    <scan>Khaled<scan> <scan>Mohamed<scan>
+    <h4>
+    <p>tkhaled619@gmail.com</p>
+    <p> hello</p>
 </div>
